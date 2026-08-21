@@ -1,0 +1,5 @@
+# Packaging / install artifacts
+*.egg-info/
+.eggs/
+build/
+dist/
