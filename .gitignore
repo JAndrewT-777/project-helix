@@ -1,5 +1,23 @@
+# Environments
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
 # Packaging / install artifacts
 *.egg-info/
 .eggs/
 build/
 dist/
+
+# Datasets and run artifacts
+data/
+outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Other
+CheetSheet.md

@@ -7,4 +7,5 @@ dependencies:
   - pip
   - pip:
       - -e .
+      - opencv-python
 
